@@ -64,7 +64,7 @@ Write a shell script to automate the deployment process:
 #!/bin/bash
 
 # Step 1: Pull the latest code from GitHub link
-https://github.com/DHIRAJ44/JobPortal-With-CICD
+https://github.com/Harshil177/JobHunt-Job-Search-Portal.git
 
 # Step 2: Build Docker image
 docker build -t job-portal:latest ./job-portal
